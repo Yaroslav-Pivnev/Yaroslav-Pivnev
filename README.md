@@ -18,10 +18,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [Bug-Reports](https://github.com/Yaroslav-Pivnev/Documentation/blob/main/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20-%20%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%202.pdf)
 - [Postman Collections](https://www.postman.com/interstellar-satellite-615218/workspace/test/collection/25205988-b8e99ce6-5b71-464a-aacc-210f645c2989?action=share&creator=25205988)
 
 ### Follow Me
