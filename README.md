@@ -1,18 +1,9 @@
 [![Header]https://yandex.tm/images/search?text=%D0%90%D1%83%D1%81%D1%81%D0%B8&nl=1&source=morda&pos=2&rpt=simage&img_url=http%3A%2F%2Fthispets.ru%2Fwp-content%2Fuploads%2F2022%2F04%2Fv10-2.jpg&lr=154
 ## I am studying qa engineer 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV] (https://github.com/Yaroslav-Pivnev)
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Эфир с тестировщиком: курсы и Youtube](https://www.youtube.com/watch?v=FmsgHaDgbTs)
-- [ТЫ MIDDLE QA ENGINEER ЕСЛИ… #тестировщикпо #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=PPrTznA66KI)
-- [Зачем тестировщику Charles Proxy и Fiddler? #тестировщикснуля](https://www.youtube.com/watch?v=0wV6bYwsjfY)
-- [ПОЧЕМУ ТЕБЯ НЕ БЕРУТ НА РАБОТУ ТЕСТИРОВЩИКОМ? #войтивайти #тестировщик](https://www.youtube.com/watch?v=FDcy0gLUPJ8)
-- [#2 ChatGPT для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=aoOvNd7iTTM)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
