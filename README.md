@@ -1,5 +1,5 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
+[![Header]https://yandex.tm/images/search?text=%D0%90%D1%83%D1%81%D1%81%D0%B8&nl=1&source=morda&pos=2&rpt=simage&img_url=http%3A%2F%2Fthispets.ru%2Fwp-content%2Fuploads%2F2022%2F04%2Fv10-2.jpg&lr=154
+## I am studying qa engineer 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
