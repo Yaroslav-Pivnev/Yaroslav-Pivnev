@@ -1,7 +1,7 @@
 ## I am studying qa engineer 
 
 ## My CV
-[Link to my CV](https://github.com/Yaroslav-Pivnev)
+[Link to my CV](https://docs.google.com/document/d/12CiXNVRBgUwoWniwNM0HXLe51Q3oG8SH/edit?usp=sharing&ouid=106227004187749681043&rtpof=true&sd=true)
 
 
 ### Language and Tools
